@@ -1,0 +1,78 @@
+﻿,Unnamed: 0,precinct_number,Phone,st_address,city,state,full_address,lat,lng,zipcode
+0,0,1,212-334-0611,16 Ericsson Place,New York,NY,"16 Ericsson Place, New York, NY",40.7202702,-74.0071976,10013
+1,1,5,212-334-0711,19 Elizabeth Street,New York,NY,"19 Elizabeth Street, New York, NY",40.7161942,-73.9974699,10013
+2,2,6,212-741-4811,233 West 10 Street,New York,NY,"233 West 10 Street, New York, NY",40.7342332,-74.0054532,10014
+3,3,7,212-477-7311,19 1/2 Pitt Street,New York,NY,"19 1/2 Pitt Street, New York, NY",40.7163623,-73.9839341,10002
+4,4,9,212-477-7811,321 East 5 Street,New York,NY,"321 East 5 Street, New York, NY",40.644583,-73.9755001,10003
+5,5,10,212-741-8211,230 West 20th Street,New York,NY,"230 West 20th Street, New York, NY",40.7427116,-73.998643,10011
+6,6,13,212-477-7411,230 East 21st Street,New York,NY,"230 East 21st Street, New York, NY",40.7367881,-73.9829079,10010
+7,7,14,212-239-9811,357 West 35th Street,New York,NY,"357 West 35th Street, New York, NY",40.7538904,-73.9948941,10001
+8,8,17,212-826-3211,167 East 51st Street,New York,NY,"167 East 51st Street, New York, NY",40.7567621,-73.9707858,10022
+9,9,18,212-767-8400,306 West 54th Street,New York,NY,"306 West 54th Street, New York, NY",40.7649517,-73.9851379,10019
+10,10,19,212-452-0600,153 East 67th Street,New York,NY,"153 East 67th Street, New York, NY",40.7671478,-73.9637748,10065
+11,11,20,212-580-6411,120 West 82nd Street,New York,NY,"120 West 82nd Street, New York, NY",40.7841812,-73.9749862,10024
+12,12,22,212-570-4820,86th St & Transverse Road,New York,NY,"100 86th St Transverse, New York, NY",40.7780602,-73.9521931,10024
+13,13,23,212-860-6411,164 East 102nd Street,New York,NY,"164 East 102nd Street, New York, NY",40.7891814,-73.9472169,10029
+14,14,24,212-678-1811,151 West 100th Street,New York,NY,"151 West 100th Street, New York, NY",40.796506,-73.9673459,10025
+15,15,25,212-860-6511,120 East 119th Street,New York,NY,"120 East 119th Street, New York, NY",40.8006969,-73.9411026,10035
+16,16,26,212-678-1311,520 West 126th Street,New York,NY,"520 West 126th Street, New York, NY",40.8147406,-73.9564059,10027
+17,17,28,212-678-1611,2271-89 8th Avenue,New York,NY,"2271-89 Frederick Douglass Blvd, New York, NY",40.7521936,-73.993451,10027
+18,18,30,212-690-8811,451 West 151st Street,New York,NY,"451 West 151st Street, New York, NY",40.8287571,-73.9436513,10031
+19,19,32,212-690-6311,250 West 135th Street,New York,NY,"250 West 135th Street, New York, NY",40.8157306,-73.9453589,10030
+20,20,33,212-927-3200,2207 Amsterdam Avenue,New York,NY,"2207 Amsterdam Avenue, New York, NY",40.840689,-73.9357066,10032
+21,21,34,212-927-9711,4295 Broadway,New York,NY,"4295 Broadway, New York, NY",40.8515464,-73.9353851,10033
+22,22,40,718-402-2270,257 Alexander Avenue,Bronx,NY,"257 Alexander Avenue, Bronx, NY",40.8103744,-73.9252934,10454
+23,23,41,718-542-4771,1035 Longwood Avenue,Bronx,NY,"1035 Longwood Avenue, Bronx, NY",40.8163245,-73.8956563,10459
+24,24,42,718-402-3887,830 Washington Avenue,Bronx,NY,"830 Washington Avenue, Bronx, NY",40.8225567,-73.9113843,10451
+25,25,43,718-542-0888,900 Fteley Avenue,Bronx,NY,"900 Fteley Avenue, Bronx, NY",40.8230714,-73.8697939,10473
+26,26,44,718-590-5511,2 East 169th Street,Bronx,NY,"2 East 169th Street, Bronx, NY",40.8372041,-73.9199079,10452
+27,27,45,718-822-5411,2877 Barkley Avenue,Bronx,NY,"2877 Barkley Avenue, Bronx, NY",40.8308596,-73.8273408,10465
+28,28,46,718-220-5211,2120 Ryer Avenue,Bronx,NY,"2120 Ryer Avenue, Bronx, NY",40.8539879,-73.9001119,10457
+29,29,47,718-920-1211,4111 Laconia Avenue,Bronx,NY,"4111 Laconia Avenue, Bronx, NY",40.8875453,-73.8475117,10466
+30,30,48,718-299-3900,450 Cross Bronx Expressway,Bronx,NY,"450 Cross Bronx Expressway, Bronx, NY",40.8439231,-73.9004465,10457
+31,31,49,718-918-2000,2121 Eastchester Road,Bronx,NY,"2121 Eastchester Road, Bronx, NY",40.8560259,-73.8444211,10461
+32,32,50,718-543-5700,3450 Kingsbridge Avenue,Bronx,NY,"3450 Kingsbridge Avenue, Bronx, NY",40.8835686,-73.9023166,10463
+33,33,52,718-220-5811,3016 Webster Avenue,Bronx,NY,"3016 Webster Avenue, Bronx, NY",40.8690833,-73.8796248,10467
+34,34,60,718-946-3311,2951 West 8th Street,Brooklyn,NY,"2951 West 8th Street, Brooklyn, NY",40.576552,-73.9761158,11224
+35,35,61,718-627-6611,2575 Coney Island Avenue,Brooklyn,NY,"2575 Coney Island Avenue, Brooklyn, NY",40.5941521,-73.9605042,11223
+36,36,62,718-236-2611,1925 Bath Avenue,Brooklyn,NY,"1925 Bath Avenue, Brooklyn, NY",40.6025018,-74.0031348,11214
+37,37,63,718-258-4411,1844 Brooklyn Avenue,Brooklyn,NY,"1844 Brooklyn Avenue, Brooklyn, NY",40.6279491,-73.9416307,11210
+38,38,66,718-851-5611,5822 16th Avenue,Brooklyn,NY,"5822 16th Avenue, Brooklyn, NY",40.6257117,-73.9913846,11204
+39,39,67,718-287-3211,2820 Snyder Avenue,Brooklyn,NY,"2820 Snyder Avenue, Brooklyn, NY",40.6486648,-73.9502641,11226
+40,40,68,718-439-4211,333 65th Street,Brooklyn,NY,"333 65th Street, Brooklyn, NY",40.6389811,-74.0226226,11220
+41,41,69,718-257-6211,9720 Foster Avenue,Brooklyn,NY,"9720 Foster Avenue, Brooklyn, NY",40.648479,-73.9049807,11236
+42,42,70,718-851-5511,154 Lawrence Avenue,Brooklyn,NY,"154 Lawrence Avenue, Brooklyn, NY",40.630338,-73.9736823,11230
+43,43,71,718-735-0511,421 Empire Boulevard,Brooklyn,NY,"421 Empire Boulevard, Brooklyn, NY",40.6645922,-73.9478302,11225
+44,44,72,718-965-6311,830 4th Avenue,Brooklyn,NY,"830 4th Avenue, Brooklyn, NY",40.6583216,-74.0008623,11232
+45,45,73,718-495-5411,1470 East New York Avenue,Brooklyn,NY,"1470 East New York Avenue, Brooklyn, NY",40.6707987,-73.9135238,11212
+46,46,75,718-827-3511,1000 Sutter Avenue,Brooklyn,NY,"1000 Sutter Avenue, Brooklyn, NY",40.6711825,-73.8815541,11208
+47,47,76,718-834-3211,191 Union Street,Brooklyn,NY,"191 Union Street, Brooklyn, NY",40.6838177,-74.0002196,11231
+48,48,77,718-735-0611,127 Utica Avenue,Brooklyn,NY,"127 Utica Avenue, Brooklyn, NY",40.6746488,-73.9302415,11213
+49,49,78,718-636-6411,65 6th Avenue,Brooklyn,NY,"65 6th Avenue, Brooklyn, NY",40.6805874,-73.9741579,11217
+50,50,79,718-636-6611,263 Tompkins Avenue,Brooklyn,NY,"263 Tompkins Avenue, Brooklyn, NY",40.6888144,-73.9448433,11216
+51,51,81,718-574-0411,30 Ralph Avenue,Brooklyn,NY,"30 Ralph Avenue, Brooklyn, NY",40.6896649,-73.9244548,11221
+52,52,83,718-574-1605,480 Knickerbocker Avenue,Brooklyn,NY,"480 Knickerbocker Avenue, Brooklyn, NY",40.6981474,-73.9178411,11237
+53,53,84,718-875-6811,301 Gold Street,Brooklyn,NY,"301 Gold Street, Brooklyn, NY",40.6955481,-73.9829169,11201
+54,54,88,718-636-6511,298 Classon Avenue,Brooklyn,NY,"298 Classon Avenue, Brooklyn, NY",40.6900709,-73.9605316,11205
+55,55,90,718-963-5311,211 Union Avenue,Brooklyn,NY,"211 Union Avenue, Brooklyn, NY",40.706273,-73.9507692,11211
+56,56,94,718-383-3879,100 Meserole Avenue,Brooklyn,NY,"100 Meserole Avenue, Brooklyn, NY",40.7266755,-73.9532951,11222
+57,57,100,718-318-4200,92-24 Rockaway Beach Boulevard,Queens,NY,"92-24 Rockaway Beach Boulevard, Queens, NY",40.586248,-73.816477,11693
+58,58,101,718-868-3400,16-12 Mott Avenue,Queens,NY,"16-12 Mott Avenue, Queens, NY",40.6029091,-73.7499246,11691
+59,59,102,718-805-3200,87-34 118th Street,Queens,NY,"87-34 118th Street, Queens, NY",40.6987209,-73.8315671,11418
+60,60,103,718-657-8181,168-02 P.O Edward Byrne Ave.,Queens,NY,"168-02 P.O Edward Byrne Ave., Queens, NY",40.667336,-73.807361,11420
+61,61,104,718-386-3004,64-2 Catalpa Avenue,Queens,NY,"64-2 Catalpa Avenue, Queens, NY",40.7043572,-73.8936486,11385
+62,62,105,718-776-9090,92-08 222nd Street,Queens,NY,"92-08 222nd Street, Queens, NY",40.7262254,-73.735144,11428
+63,63,106,718-845-2211,103-53 101st Street,Queens,NY,"103-53 101st Street, Queens, NY",40.6821743,-73.8397182,11417
+64,64,107,718-969-5100,71-01 Parsons Boulevard,Queens,NY,"71-01 Parsons Boulevard, Queens, NY",40.7299091,-73.8106143,11365
+65,65,108,718-784-5411,5-47 50th Avenue,Queens,NY,"5-47 50th Avenue, Queens, NY",40.7430828,-73.9546724,11101
+66,66,109,718-321-2250,37-05 Union Street,Queens,NY,"37-05 Union Street, Queens, NY",40.762361,-73.8270199,11354
+67,67,110,718-476-9311,94-41 43rd Avenue,Queens,NY,"94-41 43rd Avenue, Queens, NY",40.7452193,-73.8700695,11373
+68,68,111,718-279-5200,45-06 215th Street,Queens,NY,"45-06 215th Street, Queens, NY",40.7602441,-73.7677809,11361
+69,69,112,718-520-9311,68-40 Austin Street,Queens,NY,"68-40 Austin Street, Queens, NY",40.722358,-73.851468,11375
+70,70,113,718-712-7733,167-02 Baisley Boulevard,Queens,NY,"167-02 Baisley Boulevard, Queens, NY",40.6798013,-73.7756864,11434
+71,71,114,718-626-9311,34-16 Astoria Boulevard,Queens,NY,"34-16 Astoria Boulevard, Queens, NY",40.7692816,-73.9153276,11103
+72,72,115,718-533-2002,92-15 Northern Boulevard,Queens,NY,"92-15 Northern Boulevard, Queens, NY",40.7568746,-73.8754903,11369
+73,73,120,718-876-8500,78 Richmond Terrace,Staten Island,NY,"78 Richmond Terrace, Staten Island, NY",40.6446279,-74.077423,10301
+74,74,121,718-697-8700,970 Richmond Avenue,Staten Island,NY,"970 Richmond Avenue, Staten Island, NY",40.6236765,-74.1503435,10314
+75,75,122,718-667-2211,2320 Hylan Boulevard,Staten Island,NY,"2320 Hylan Boulevard, Staten Island, NY",40.5741179,-74.1055058,10306
+76,76,123,718-948-9311,116 Main Street,Staten Island,NY,"116 Main Street, Staten Island, NY",40.5118436,-74.2500359,10307

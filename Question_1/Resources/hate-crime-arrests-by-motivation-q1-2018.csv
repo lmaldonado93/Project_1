@@ -1,0 +1,20 @@
+﻿Number,Precinct,Gender,Race,Age,Bias Motivation 
+1,13,Male,Black,53,Anti-Male Homosexual (Gay)
+2,14,Male,White,25,Anti-Male Homosexual (Gay)
+3,17,Male,White,21,Anti-Jewish
+4,17,Male,White,21,Anti-Jewish
+5,18,Female,White,57,Anti-Other Ethnicity
+6,18,Male,White,33,Anti-Islamic
+7,19,Female,White,29,Anti-Jewish
+8,40,Male,Black,24,Anti-Other Ethnicity
+9,41,Male,White,29,Anti-Male Homosexual (Gay)
+10,47,Female,Black,58,Anti-Other Religion
+11,66,Male,Black,54,Anti-Jewish
+12,67,Male,Black,45,Anti-Female Homosexual (Lesbian)
+13,71,Male,Black,36,Anti-Jewish
+14,71,Male,Black,34,Anti-Islamic
+15,90,Male,White,18,Anti-Jewish
+16,110,Male,White,35,Anti-Transgender
+17,111,Male,White,19,Anti-Jewish
+18,111,Male,Asian,26,Anti-Catholic
+19,120,Male,White,15,Anti-Hispanic

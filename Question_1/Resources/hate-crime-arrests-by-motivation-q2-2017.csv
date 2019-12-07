@@ -1,0 +1,54 @@
+﻿Precinct,Number,Gender,Race,Age,Bias-Motivation
+6,1,Male,White,59,Anti-Black
+7,2,Male,White,23,Anti-Black
+7,3,Male,Black,25,Anti-Islamic (Muslim)
+7,4,Male,White,23,Anti-Black
+7,5,Male,White,21,Anti-Black
+9,6,Male,Unknown,20,Anti-Transgender
+14,7,Male,Black,50,Anti-Transgender
+17,8,Male,White,48,Anti-Islamic (Muslim)
+18,9,Male,Black,30,Anti-Multi Religious Groups
+23,10,Male,White,12,Anti-Jewish
+23,11,Male,Black,12,Anti-Jewish
+23,12,Male,Black,30,Anti-Transgender
+23,13,Male,Black,12,Anti-Jewish
+26,14,Male,Black,13,Anti-Transgender
+26,15,Male,Black,14,Anti-Transgender
+28,16,Female,Black,38,Anti-Jewish
+28,17,Male,White,39,Anti-Jewish
+41,18,Male,White,13,Anti-Islamic (Muslim)
+42,19,Male,Black,22,Anti-Transgender
+46,20,Male,Black,14,Anti-Transgender
+48,21,Male,Black,24,Anti-Transgender
+49,22,Male,Black,31,Anti-Islamic (Muslim)
+60,23,Male,Black,37,Anti-Transgender
+60,24,Male,Black,32,Anti-Transgender
+61,25,Male,White,50,Anti-Black
+61,26,Male,White,36,Anti-Islamic (Muslim)
+61,27,Male,Black,12,Anti-Asian
+63,28,Male,White,45,Anti-Jewish
+66,29,Male,White,27,Anti-Islamic (Muslim)
+70,30,Male,Black,27,Anti-Jewish
+70,31,Male,Black,19,Anti-Islamic (Muslim)
+70,32,Male,Black,28,Anti-Jewish
+71,33,Male,Unknown,18,Anti-Jewish
+71,34,Male,Black,37,Anti-Jewish
+75,35,Male,White,17,Anti-Islamic (Muslim)
+75,36,Male,Black,26,Anti-Transgender
+79,37,Male,Asian,79,Anti-Jewish
+84,38,Male,Black,27,Anti-Transgender
+90,39,Male,White,15,Anti-Transgender
+90,40,Female,White,20,Anti-Jewish
+90,41,Male,White,13,Anti-Transgender
+103,42,Male,Black,35,Anti-Transgender
+107,43,Male,Asian,21,Anti-Other Ethnicity
+108,44,Female,White,28,Anti-Other Ethnicity
+108,45,Male,White,52,Anti-Black
+108,46,Male,White,29,Anti-Other Ethnicity
+110,47,Female,White,28,Anti-Other Ethnicity
+110,48,Male,White,29,Anti-Other Ethnicity
+110,49,Male,White,23,Anti-Multi Religious Groups
+113,50,Male,Black,15,Anti-Islamic (Muslim)
+114,51,Male,White,53,Anti-Transgender
+115,52,Male,Asian,48,Anti-Transgender
+115,53,Male,White,50,Anti-Other Ethnicity

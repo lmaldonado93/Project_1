@@ -1,0 +1,61 @@
+﻿Number,Precinct, Gender,Race,Age,Bias Motivation
+1,1,Male,White,35,Anti-Jewish
+2,1,Male,White,35,Anti-Jewish
+3,5,Male,White,57,Anti-Black
+4,6,Male,White,35,Anti-Jewish
+5,7,Male,White,37,Anti-Black
+6,9,Male,White,58,Anti-Jewish
+7,13,Male,White,35,Anti-Jewish
+8,14,Male,White,35,Anti-Jewish
+9,17,Male,White,35,Anti-Jewish
+10,18,Male,White,35,Anti-Jewish
+11,18,Male,White,35,Anti-Jewish
+12,18,Male,Black,44,Anti-Islamic (Muslim)
+13,20,Male,White,35,Anti-Jewish
+14,20,Male,White,35,Anti-Jewish
+15,23,Male,White,39,Anti-Asian
+16,23,Male,Black,24,Anti-male homosexual (Gay)
+17,25,Male,White,35,Anti-Jewish
+18,25,Male,White,35,Anti-Jewish
+19,25,Male,White,63,Anti-Jewish
+20,28,Male,White,35,Anti-Jewish
+21,30,Female,Black,41,Anti-other ethnicity/national origin
+22,32,Male,White,35,Anti-Jewish
+23,34,Male,White,25,Anti-Jewish
+24,34,Male,White,35,Anti-Jewish
+25,44,Male,Black,22,Anti-other ethnicity/national origin
+26,47,Male,Black,41,Anti-male homosexual (Gay)
+27,47,Male,Black,41,Anti-male homosexual (Gay)
+28,47,Male,Black,35,Anti-Arab
+29,50,Male,White,35,Anti-Jewish
+30,52,Male,Black,28,Anti-Black
+31,60,Male,White,36,Anti-male homosexual (Gay)
+32,60,Male,White,33,Anti-male homosexual (Gay)
+33,60,Male,White,35,Anti-Jewish
+34,61,Male,Black,50,Anti-male homosexual (Gay)
+35,61,Male,White,35,Anti-Jewish
+36,61,Male,White,35,Anti-Jewish
+37,66,Male,Asian,37,Anti-Jewish
+38,66,Male,Hispanic,26,Anti-Jewish
+39,66,Male,White,35,Anti-Jewish
+40,68,Female,Black,13,Anti-Islamic (Muslim)
+41,68,Male,White,15,Anti-Black
+42,70,Male,White,35,Anti-Jewish
+43,71,Male,Black,18,Anti-Jewish
+44,76,Male,White,35,Anti-Jewish
+45,77,Male,White,26,Anti-Jewish
+46,77,Male,Black,26,Anti-Jewish
+47,78,Female,White,35,Anti-Transgender
+48,78,Male,White,25,Anti-Transgender
+49,79,Male,Black,32,Anti-Jewish
+50,84,Male,Black,18,Anti-Jewish
+51,84,Male,Black,17,Anti-Jewish
+52,90,Male,White,26,Anti-Jewish
+53,90,Male,White,26,Anti-Jewish
+54,90,Male,Black,26,Anti-Jewish
+55,90,Male,Black,26,Anti-Jewish
+56,90,Male,Black,26,Anti-Jewish
+57,90,Male,White,32,Anti-Jewish
+58,90,Male,White,28,Anti-Catholic
+59,112,Male,Black,54,Anti-male homosexual (Gay)
+60,120,Male,Black,14,Anti-White

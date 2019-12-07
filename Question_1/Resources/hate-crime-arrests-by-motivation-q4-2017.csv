@@ -1,0 +1,39 @@
+﻿Precinct,Number, Gender,Race,Age,Bias Motivation
+1,1,Male,Black,29,Anti-White
+7,2,Male,White,29,Anti-White
+13,3,Male,Black,24,Anti-Gender Non-Conforming
+14,4,Male,Black,18,Anti-White
+17,5,Female,Black,54,Anti-White
+18,6,Male,White,23,Anti-Black
+20,7,Male,White,22,Anti-White
+34,8,Male,Black,14,Anti-LGBT
+44,9,Male,Black,16,Anti-White
+44,10,Male,Black,16,Anti-White
+52,11,Male,White,41,Anti-Jewish
+61,12,Male,Black,16,Anti-other Ethnicity
+61,13,Male,White,25,Anti-Black
+62,14,Male,White,28,Anti-other Ethnicity
+66,15,Male,Asian,37,Anti-Islamic (Muslim)
+71,16,Male,Black,11,Anti-Jewish
+71,17,Female,White,26,Anti-Jewish
+72,18,Male,Asian,37,Anti-Islamic (Muslim)
+75,19,Male,White,28,Anti-Other Anti-Other Religion
+79,20,Male,Black,18,Anti-Jewish
+81,21,Male,Black,39,Anti-Gender Non-Conforming
+83,22,Male,Black,41,Anti-LGBT
+83,23,Male,White,16,Anti-Islamic (Muslim)
+84,24,Male,White,36,Anti-Black
+94,25,Male,White,32,Anti-LGBT
+102,26,Male,Black,34,Anti-White
+104,27,Male,White,22,Anti-Other Anti-Other Religion
+104,28,Male,White,21,Anti-Other Anti-Other Religion
+104,29,Male,White,21,Anti-Other Anti-Other Religion
+107,30,Male,Black,28,Anti-Asian
+112,31,Male,Black,39,Anti-other Ethnicity
+113,32,Male,White,57,Anti-Islamic (Muslim)
+120,33,Female,White,38,Anti-Black
+120,34,Female,White,44,Anti-Black
+120,35,Female,White,38,Anti-LGBT
+121,36,Male,White,57,Anti-Hispanic
+122,37,Female,White,44,Anti-Black
+123,38,Male,White,37,Anti-Jewish
